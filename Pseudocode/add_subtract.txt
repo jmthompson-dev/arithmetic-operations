@@ -1,0 +1,12 @@
+START
+   PRINT ASCII art banner
+   PRINT "Addition and Subtraction"
+   PRINT "Enter the first number:"
+   READ num1
+   PRINT "Enter the second number:"
+   READ num2
+   sum = num1 + num2
+   difference = num1 - num2
+   PRINT "The sum is:", sum
+   PRINT "The difference is:", difference
+END

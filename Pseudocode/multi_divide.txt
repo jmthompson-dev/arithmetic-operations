@@ -1,0 +1,16 @@
+START
+   PRINT ASCII art banner
+   PRINT "Multiplication and Division"
+   PRINT "Enter the first number:"
+   READ num1
+   PRINT "Enter the second number:"
+   READ num2
+   product = num1 * num2
+   IF num2 != 0 THEN
+       quotient = num1 / num2
+       PRINT "The quotient is:", quotient
+   ELSE
+       PRINT "Division by zero is not allowed."
+   ENDIF
+   PRINT "The product is:", product
+END
