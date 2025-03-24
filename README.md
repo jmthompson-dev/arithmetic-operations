@@ -26,7 +26,7 @@ This project demonstrates basic arithmetic operations in Python along with a fun
 
      ```bash
      python add_subtract.py
-     python mult_divide.py
+     python multi_divide.py
      ```
 
 3. **Follow the On-Screen Prompts:**
@@ -36,7 +36,7 @@ This project demonstrates basic arithmetic operations in Python along with a fun
 
 ## Project Structure
 
-- `python add_subtract.py` or `python mult_divide.py`: Contains the source code for the arithmetic operations and the ASCII art banner.
+- `add_subtract.py` and `multi_divide.py`: Contains the source code for the arithmetic operations and the ASCII art banner.
 
 ## Features
 
