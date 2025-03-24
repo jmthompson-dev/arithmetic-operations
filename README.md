@@ -25,8 +25,8 @@ This project demonstrates basic arithmetic operations in Python along with a fun
    - Run:
 
      ```bash
-     python add_subtract.py
-     python multi_divide.py
+     python3 add_subtract.py
+     python3 multi_divide.py
      ```
 
 3. **Follow the On-Screen Prompts:**
